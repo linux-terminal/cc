@@ -9,7 +9,7 @@ else
     Main=yum
 fi
 
-funtion main(){
+function main(){
     echo "###       web tool v1.1        ###"
     echo "###  By GitHub@linux-terminal  ###"
     echo "###    Update: 2020-07-06      ###"
